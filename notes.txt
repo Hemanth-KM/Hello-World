@@ -1,0 +1,4 @@
+JDK 20
+IntelliJDE
+Git
+Maven
