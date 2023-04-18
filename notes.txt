@@ -26,8 +26,9 @@ git push -u origin main
 git status
 git add notes.txt
 git status
-git push
 git commit -m "Second commit" 
+git push
+
 
 
 git clone https://github.com/Hemanth-KM/Hello-World.git
