@@ -5,14 +5,29 @@ Maven
 
 inintintinititnit
 
-git push -u origin main
-git remote add origin https://github.com/Hemanth-KM/Hello-World.git
-git branch -M main
-git commit -m "first commit"
-git config --global user.name "Hemanth-KM"
-git config --global user.email "hemanthdanial37@gmail.com"
-git add .
+
+
+
+
+
+
+
 git init
+git add .
+git config --global user.email "hemanthdanial37@gmail.com"
+git config --global user.name "Hemanth-KM"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Hemanth-KM/Hello-World.git
+git push -u origin main
 
 
+
+git status
 git add notes.txt
+git status
+git push
+git commit -m "Second commit" 
+
+
+git clone https://github.com/Hemanth-KM/Hello-World.git
